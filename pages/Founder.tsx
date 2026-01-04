@@ -94,7 +94,7 @@ const Founder: React.FC = () => {
                    </div>
                    <div className="hidden md:flex flex-col">
                      <span className="text-gray-500 text-sm uppercase tracking-wider mb-1">Focus</span>
-                     <span className="text-lg font-serif text-gray-800">Faculty Development</span>
+                     <span className="text-lg font-serif text-gray-800">Faculty Interaction</span>
                    </div>
                 </div>
 
